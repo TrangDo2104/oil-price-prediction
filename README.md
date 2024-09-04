@@ -91,6 +91,6 @@ As shown in the above figure, our project has nine stages:
 
 ### Results
 > LSTM Prediction of Open Price with sentiment analysis
-> ![image](image/image9.png)
+> ![image](image/image9.jpeg)
 > LSTM Prediction of Adjusted Close Price with sentiment analysis
-> ![image](image/image10.png)
+> ![image](image/image10.jpeg)
